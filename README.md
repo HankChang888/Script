@@ -11,5 +11,5 @@ then check the $PRJ is valid
 echo $PRJ  
 1.3 If you want to save the $PRJ valible,you can write into etc/profile  
 vi /etc/profile  
-then put on the top  
+then wrte on top
 export PRJ=$PRJ"/home/hank/myproject" 
